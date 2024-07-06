@@ -79,4 +79,9 @@ You need a web browser to open the `index.html` file.
 5. View the result showing your BMI and the corresponding weight category.
 
 ## File Structure
+bmi-calculator-website/
+├── index.html
+├── styles.css
+├── script.js
+└── README.md
 
