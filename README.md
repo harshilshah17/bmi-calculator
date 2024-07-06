@@ -78,10 +78,25 @@ You need a web browser to open the `index.html` file.
 4. Click the "Calculate BMI" button.
 5. View the result showing your BMI and the corresponding weight category.
 
-## File Structure
-bmi-calculator-website/
-├── index.html
-├── styles.css
-├── script.js
-└── README.md
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## References
+
+- [World Health Organization: BMI](https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight)
+- [Centers for Disease Control and Prevention: About Adult BMI](https://www.cdc.gov/healthyweight/assessing/bmi/adult_bmi/index.html)
+- [National Heart, Lung, and Blood Institute: Calculate Your BMI](https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm)
+
+## Acknowledgments
+
+- Background image from [Unsplash](https://unsplash.com/).
+
+## Author 
+- Harshil Shah
 
