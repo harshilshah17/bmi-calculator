@@ -39,4 +39,5 @@ function calculateBMI() {
         resultText += 'You are obese.';
     }
 
-    result
+    resultElement.innerText = resultText;
+}
